@@ -46,11 +46,15 @@ npm install
 
 ### MySQL
 
-略
+- 略
 
 ### InfluxDB
 
 - dockerhub 的 influxDB 主页：https://hub.docker.com/_/influxdb
+- 建议使用 **1.8.10** 版本
+```shell
+docker pull influxdb:1.8.10
+```
 
 ### 工程配置
 
